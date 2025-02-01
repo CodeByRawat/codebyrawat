@@ -1,19 +1,101 @@
-<h1 align="center">Hi 👋, I'm Sachin Rawat</h1>
-<h3 align="center">A passionate Data Analyst & Aspiring Data Scientist</h3>
+<div style="text-align: center;">
+    <img alt="Banner-Img" src="https://github.com/Yousfshah/Yousfshah/blob/main/Banner.jpg" style="width: 100%; max-width: 800px; height:380px; border-radius: 10px;"/>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codebyrawat&label=Profile%20views&color=0e75b6&style=flat" alt="codebyrawat" /> </p>
+<h1 align="center" style="color: #2c3e50;">👋 Hi, I'm <span style="color: #16a085;">Sachin Rawat</span></h1>
+<h3 align="center" style="color: #2980b9;">I am a learner committed to strengthening my expertise in the field of data science and analysis</h3>
 
-<h3 align="left">Connect with me:</h3>
+<img align="right" alt="Coding-Animation" src="https://github.com/CodeByRawat/CodeByRawat/blob/main/gif.gif" style="width: 100%; max-width: 800px; height:300px; border-radius: 10px;"/>
+
 <p align="left">
-<a href="https://linkedin.com/in/sachin-rawat-5b1512149" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sachin-rawat-5b1512149" height="30" width="40" /></a>
+  <img src="https://komarev.com/ghpvc/?username=CodeByRawat&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### 🌟 About Me  
+- 🌱 **I’m currently learning**: Data Science & Analysis
+- 👨‍💻 **All of my projects** are available at: [My GitHub Portfolio](https://github.com/CodeByRawat/)  
+- 📫 **How to reach me**: sachinrawat.in.com@gmail.com  
+- 🌐 **Check out my Portfolio Website**: [Visit Here](https://CodeByRawat.github.io/)  
+- 💬 **Personal Message**:  
+  I love learning new things and continuously improving my skills. I also explore **Generative AI**, **Agentic AI**, and dive deeper into fields like **Deep Learning (DL)** and **Natural Language Processing (NLP)**.
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=codebyrawat&show_icons=true&locale=en&layout=compact" alt="codebyrawat" /></p>
+---
 
+### 🤝 Connect with Me  
+<p align="center">
+<div>
+  <table>
+    <tr>
+      <td>
+        <a href="https://www.linkedin.com/in/yousuf-shah-7ba9492b4/" target="_blank">
+          <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+        </a>
+      </td>
+      <td>
+        <a href="https://yousfshah.github.io/Portfolio_Website/" target="_blank">
+          <img src="https://img.shields.io/badge/Portfolio_Website-Website-blue?style=for-the-badge&logo=link" alt="Portfolio Website" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/Yousfshah" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-Profile-green?style=for-the-badge&logo=github" alt="GitHub" />
+        </a>
+      </td>
+      <td>
+        <a href="https://www.kaggle.com/yousufshah" target="_blank">
+          <img src="https://img.shields.io/badge/Kaggle-Profile-orange?style=for-the-badge&logo=kaggle" alt="Kaggle" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+</p>
 
+---
+
+### 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yousfshah&show_icons=true&theme=radical" alt="GitHub Stats" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousfshah&layout=compact&theme=radical" alt="Most Used Languages" width="47%" />
+</p>
+
+---
+
+### 💻 Technologies & Tools  
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/-SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/-Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit Learn" />
+  <img src="https://img.shields.io/badge/-SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy" />
+  <img src="https://img.shields.io/badge/-Seaborn-FF6F61?style=for-the-badge&logoColor=white" alt="Seaborn" />
+  <img src="https://img.shields.io/badge/-Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" />
+  <img src="https://img.shields.io/badge/-Matplotlib-20232A?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/-Beautiful_Soup-8A9296?style=for-the-badge&logo=beautifulsoup4&logoColor=white" alt="Beautiful Soup" />
+  <img src="https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
+  <img src="https://img.shields.io/badge/-Scrapy-FF4C4C?style=for-the-badge&logo=scrapy&logoColor=white" alt="Scrapy" />
+  <img src="https://img.shields.io/badge/-AutoML_Libraries-008000?style=for-the-badge&logo=automl&logoColor=white" alt="AutoML Libraries" />
+  <img src="https://img.shields.io/badge/-AutoEDA_Libraries-4169E1?style=for-the-badge&logoColor=white" alt="AutoEDA Libraries" />
+</p>
+
+---
+
+### 🚀 Highlights  
+- 🔍 Explore my detailed [Portfolio Website](https://yousfshah.github.io/Portfolio_Website/) to see my projects, and achievements!
+- 💡 My goal is to contribute impactful projects and improve my skills in **Data Science**, **Generative AI**, and **Agentic AI**.
+- 🎯 Always ready to collaborate and learn!
+
+---
+
+### 🏆 Achievements  
+- ⭐ **Contributed to Kaggle projects with meaningful impact**  
+- 📈 **Progressing on GitHub with open-source collaborations**
 ###
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CodeByRawat/CodeByRawat/output/github-snake-dark.svg" />
