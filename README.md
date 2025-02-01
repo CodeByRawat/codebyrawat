@@ -1,4 +1,4 @@
-<h2 align="left">Hi ??! My name is Sachin Rawat.<br> I'm a Data Analyst passionate about uncovering insights from data and turning them into actionable solutions.</h2>
+<h2 align="left">Hi 👋 ! My name is Sachin Rawat.<br> I'm a Data Analyst passionate about uncovering insights from data and turning them into actionable solutions.</h2>
 
 ###
 
