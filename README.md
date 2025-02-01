@@ -17,6 +17,7 @@
 <h2 align="left">I code with</h2>
 
 ###
+![snake gif](https://github.com/CodeByRawat/CodeByRawat/blob/output/github-snake-dark.svg)
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -35,6 +36,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
 </div>
-![snake gif](https://github.com/CodeByRawat/CodeByRawat/blob/output/github-snake-dark.svg)
+
 ###
-![snake gif](https://github.com/CodeByRawat/CodeByRawat/blob/output/github-snake-dark.svg)
