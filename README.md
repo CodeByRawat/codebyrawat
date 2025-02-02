@@ -18,7 +18,7 @@
 - 🌱 **I’m currently learning**: Data Science & Analysis
 - 👨‍💻 **All of my projects** are available at: [My GitHub Portfolio](https://github.com/CodeByRawat/)  
 - 📫 **How to reach me**: sachinrawat.in.com@gmail.com  
-- 🌐 **Check out my Portfolio Website**: [Visit Here](https://CodeByRawat.github.io/)  
+  <!-- 🌐 **Check out my Portfolio Website**: [Visit Here](https://CodeByRawat.github.io/)-->  
 - 💬 **Personal Message**:  
   I love learning new things and continuously improving my skills. I also explore **Generative AI**, **Agentic AI**, and dive deeper into fields like **Deep Learning (DL)** and **Natural Language Processing (NLP)**.
 
@@ -88,7 +88,7 @@
 ---
 
 ### 🚀 Highlights  
-- 🔍 Explore my detailed [Portfolio Website](https://codebyrawat.github.io/) to see my projects, and achievements!
+<!-- 🔍 Explore my detailed [Portfolio Website](https://codebyrawat.github.io/) to see my projects, and achievements! -->
 - 💡 My goal is to contribute impactful projects and improve my skills in **Data Science**, **Generative AI**, and **Agentic AI**.
 - 🎯 Always ready to collaborate and learn!
 
