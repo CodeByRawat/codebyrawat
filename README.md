@@ -1,6 +1,3 @@
-<div style="text-align: center;">
-    <img alt="Banner-Img" src="https://github.com/Yousfshah/Yousfshah/blob/main/Banner.jpg" style="width: 100%; max-width: 800px; height:380px; border-radius: 10px;"/>
-</div>
 
 <h1 align="center" style="color: #2c3e50;">👋 Hi, I'm <span style="color: #16a085;">Sachin Rawat</span></h1>
 <h3 align="center" style="color: #2980b9;">I am a learner committed to strengthening my expertise in the field of data science and analysis</h3>
