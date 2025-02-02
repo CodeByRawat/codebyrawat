@@ -3,6 +3,12 @@
 <h3 align="center" style="color: #2980b9;">I am a learner committed to strengthening my expertise in the field of data science and analysis</h3>
 
 <img align="right" alt="Coding-Animation" src="https://github.com/CodeByRawat/CodeByRawat/blob/main/gif.gif" style="width: 100%; max-width: 800px; height:300px; border-radius: 10px;"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CodeByRawat/CodeByRawat/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CodeByRawat/CodeByRawat/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/CodeByRawat/CodeByRawat/output/github-snake.svg" />
+</picture>
+
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=CodeByRawat&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -92,9 +98,4 @@
 - ⭐ **Contributed to Kaggle projects with meaningful impact**  
 - 📈 **Progressing on GitHub with open-source collaborations**
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CodeByRawat/CodeByRawat/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CodeByRawat/CodeByRawat/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/CodeByRawat/CodeByRawat/output/github-snake.svg" />
-</picture>
 
