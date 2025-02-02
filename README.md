@@ -1,6 +1,6 @@
 
 <h1 align="center" style="color: #2c3e50;">👋 Hi, I'm <span style="color: #16a085;">Sachin Rawat</span></h1>
-<h3 align="center" style="color: #2980b9;">I am a learner committed to strengthening my expertise in the field of data science and analysis</h3>
+<h3 align="center" style="color: #2980b9;">A skilled data analyst, passionate about mastering data science and advanced analytics</h3>
 
 <img align="right" alt="Coding-Animation" src="https://github.com/CodeByRawat/CodeByRawat/blob/main/gif.gif" style="width: 100%; max-width: 800px; height:300px; border-radius: 10px;"/>
 <picture>
