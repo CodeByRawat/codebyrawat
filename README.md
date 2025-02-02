@@ -24,24 +24,24 @@
   <table>
     <tr>
       <td>
-        <a href="https://www.linkedin.com/in/yousuf-shah-7ba9492b4/" target="_blank">
+        <a href="https://www.linkedin.com/in/sachin-rawat-5b1512149/" target="_blank">
           <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
         </a>
       </td>
       <td>
-        <a href="https://yousfshah.github.io/Portfolio_Website/" target="_blank">
+        <a href="https://github.com/CodeByRawat" target="_blank">
           <img src="https://img.shields.io/badge/Portfolio_Website-Website-blue?style=for-the-badge&logo=link" alt="Portfolio Website" />
         </a>
       </td>
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/Yousfshah" target="_blank">
+        <a href="https://github.com/CodeByRawat" target="_blank">
           <img src="https://img.shields.io/badge/GitHub-Profile-green?style=for-the-badge&logo=github" alt="GitHub" />
         </a>
       </td>
       <td>
-        <a href="https://www.kaggle.com/yousufshah" target="_blank">
+        <a href="https://www.kaggle.com/datawithsachin" target="_blank">
           <img src="https://img.shields.io/badge/Kaggle-Profile-orange?style=for-the-badge&logo=kaggle" alt="Kaggle" />
         </a>
       </td>
@@ -54,8 +54,8 @@
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yousfshah&show_icons=true&theme=radical" alt="GitHub Stats" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousfshah&layout=compact&theme=radical" alt="Most Used Languages" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CodeByRawat&show_icons=true&theme=radical" alt="GitHub Stats" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByRawat&layout=compact&theme=radical" alt="Most Used Languages" width="47%" />
 </p>
 
 ---
@@ -84,7 +84,7 @@
 ---
 
 ### 🚀 Highlights  
-- 🔍 Explore my detailed [Portfolio Website](https://yousfshah.github.io/Portfolio_Website/) to see my projects, and achievements!
+- 🔍 Explore my detailed [Portfolio Website](https://codebyrawat.github.io/) to see my projects, and achievements!
 - 💡 My goal is to contribute impactful projects and improve my skills in **Data Science**, **Generative AI**, and **Agentic AI**.
 - 🎯 Always ready to collaborate and learn!
 
