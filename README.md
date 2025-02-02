@@ -17,12 +17,6 @@
   I love learning new things and continuously improving my skills. I also explore **Generative AI**, **Agentic AI**, and dive deeper into fields like **Deep Learning (DL)** and **Natural Language Processing (NLP)**.
 
 ---
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CodeByRawat/CodeByRawat/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CodeByRawat/CodeByRawat/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/CodeByRawat/CodeByRawat/output/github-snake.svg" />
-</picture>
-
 ### 🤝 Connect with Me  
 <p align="center">
 <div>
@@ -97,11 +91,10 @@
 ### 🏆 Achievements  
 - ⭐ **Contributed to Kaggle projects with meaningful impact**  
 - 📈 **Progressing on GitHub with open-source collaborations**
-###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CodeByRawat/CodeByRawat/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CodeByRawat/CodeByRawat/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/CodeByRawat/CodeByRawat/output/github-snake.svg" />
 </picture>
-###
+
