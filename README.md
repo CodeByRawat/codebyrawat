@@ -2,6 +2,16 @@
 <h1 align="center" style="color: #2c3e50;">👋 Hi, I'm <span style="color: #16a085;">Sachin Rawat</span></h1>
 <h3 align="center" style="color: #2980b9;">A skilled data analyst, passionate about mastering data science and advanced analytics</h3>
 
+## 🌍 Ongoing Collaborations
+
+### 🔬 Detecting Plastic Debris through Satellite Imagery in the Italian and Mediterranean Seas  
+🛰️ **Project Type:** Omdena Local Chapter AI Project – Trieste, Italy  
+🔗 **Repository:** [TriesteItalyChapter_PlasticDebrisDetection](https://github.com/elena-andreini/TriesteItalyChapter_PlasticDebrisDetection)  
+📌 **Role:** Contributor – Data Cleaning, Preprocessing & Baseline Modeling  
+🗺️ **Goal:** Leveraging Sentinel-2 satellite imagery and machine learning techniques to detect plastic pollution in marine environments across the Italian and Mediterranean seas.
+
+---
+
 <img align="right" alt="Coding-Animation" src="https://github.com/CodeByRawat/CodeByRawat/blob/main/gif.gif" style="width: 100%; max-width: 800px; height:300px; border-radius: 10px;"/>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CodeByRawat/CodeByRawat/output/github-snake-dark.svg" />
