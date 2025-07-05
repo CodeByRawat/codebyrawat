@@ -3,6 +3,8 @@
 <h3 align="center" style="color: #2980b9;">A skilled Machine Learning Engineer with a strong passion for Geospatial Analytics and Spatial Intelligence</h3>
 
 ## 🌍 Ongoing Collaborations
+![Rwanda](https://github.com/user-attachments/assets/348fd449-b7c8-4d3a-b578-38f1eea3ad76)
+
 ### 🌾 Building CropCycle: Smart Crop Rotation Solutions for Farmers  
 🤝 **Project Type:** Omdena AI Innovation Challenge – Global Collaboration  
 🚀 **Kickoff:** May 12, 2025  
