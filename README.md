@@ -29,12 +29,13 @@
 </p>
 
 ### 🌟 About Me  
-- 🌱 **I’m currently learning**: Data Science & Analysis
+- 🧠 **I’m an experienced Machine Learning Engineer** with a passion for building impactful, real-world AI solutions.  
+- 🌍 **Currently exploring**: Geospatial Analysis & GIS to address agricultural and environmental challenges  
 - 👨‍💻 **All of my projects** are available at: [My GitHub Portfolio](https://github.com/CodeByRawat/)  
 - 📫 **How to reach me**: sachinrawat.in.com@gmail.com  
-  <!-- 🌐 **Check out my Portfolio Website**: [Visit Here](https://CodeByRawat.github.io/)-->  
 - 💬 **Personal Message**:  
-  I love learning new things and continuously improving my skills. I also explore **Generative AI**, **Agentic AI**, and dive deeper into fields like **Deep Learning (DL)** and **Natural Language Processing (NLP)**.
+  I'm always eager to learn and grow. Recently, I've been diving deep into **Geospatial AI**, **Large Language Models (LLMs)**, **Retrieval-Augmented Generation (RAG)**, and **Agentic AI** systems using **LangChain**. I’m also expanding my skills in **Deep Learning (DL)** and **Natural Language Processing (NLP)** to create smart, adaptable AI agents that can reason and act autonomously.
+
 
 ---
 ### 🤝 Connect with Me  
@@ -90,6 +91,9 @@
   <img src="https://img.shields.io/badge/-Scrapy-FF4C4C?style=for-the-badge&logo=scrapy&logoColor=white" alt="Scrapy" />
   <img src="https://img.shields.io/badge/-AutoML_Libraries-008000?style=for-the-badge&logo=automl&logoColor=white" alt="AutoML Libraries" />
   <img src="https://img.shields.io/badge/-AutoEDA_Libraries-4169E1?style=for-the-badge&logoColor=white" alt="AutoEDA Libraries" />
+  <img src="https://img.shields.io/badge/LangChain-ffffff?logo=langchain&logoColor=green" alt="Langchain" />
+  <img src="https://img.shields.io/badge/LLM%20Support-Mixtral%2C%20Grok%2C%20Gemini%2C%20OpenAI%2C%20Cohere%20%26%20more-orange?style=flat-square" alt="LLM ENGINEERING" />
+  
 </p>
 
 ---
