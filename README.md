@@ -1,8 +1,20 @@
 
 <h1 align="center" style="color: #2c3e50;">👋 Hi, I'm <span style="color: #16a085;">Sachin Rawat</span></h1>
-<h3 align="center" style="color: #2980b9;">A skilled data analyst, passionate about mastering data science and advanced analytics</h3>
+<h3 align="center" style="color: #2980b9;">A skilled Machine Learning Engineer with a strong passion for Geospatial Analytics and Spatial Intelligence</h3>
 
 ## 🌍 Ongoing Collaborations
+### 🌾 Building CropCycle: Smart Crop Rotation Solutions for Farmers  
+🤝 **Project Type:** Omdena AI Innovation Challenge – Global Collaboration  
+🚀 **Kickoff:** May 12, 2025  
+📌 **Role:** Active Contributor – Involved in **data preprocessing**, **solution design**, and **product architecture discussion**  
+🌱 **Goal:** Build an AI-driven crop rotation recommendation system to improve soil health, boost farmer income, and strengthen climate resilience.  
+📲 **Focus Areas:**
+- Designing a **lightweight, multilingual mobile app** for farmers in low-connectivity regions  
+- Creating **AI models** using soil, climate, and market data to recommend optimal crop rotations  
+- Developing a **demo app** with **offline capabilities** and **visual dashboards**  
+- Setting up **field validation protocols** and stakeholder engagement strategies  
+🧪 **Impact:** Aims to increase crop yield by 20%, reduce soil degradation, and digitally empower over 10,000 farmers with sustainable practices.  
+⏳ **Status:** 🛠️ *In Progress*
 
 
 ---
