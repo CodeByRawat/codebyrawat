@@ -4,11 +4,6 @@
 
 ## 🌍 Ongoing Collaborations
 
-### 🔬 Detecting Plastic Debris through Satellite Imagery in the Italian and Mediterranean Seas  
-🛰️ **Project Type:** Omdena Local Chapter AI Project – Trieste, Italy  
-🔗 **Repository:** [TriesteItalyChapter_PlasticDebrisDetection](https://github.com/elena-andreini/TriesteItalyChapter_PlasticDebrisDetection)  
-📌 **Role:** Contributor – Data Cleaning, Preprocessing & Baseline Modeling  
-🗺️ **Goal:** Leveraging Sentinel-2 satellite imagery and machine learning techniques to detect plastic pollution in marine environments across the Italian and Mediterranean seas.
 
 ---
 
@@ -57,13 +52,6 @@
   </table>
 </div>
 </p>
-
----
-  ### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CodeByRawat&show_icons=true&theme=radical" alt="GitHub Stats" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByRawat&layout=compact&theme=radical" alt="Most Used Languages" width="47%" />
-</p> 
 
 ---
 
