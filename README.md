@@ -98,7 +98,16 @@
 ---
 
 ### 🏆 Achievements  
-- ⭐ **Contributed to Kaggle projects with meaningful impact**  
-- 📈 **Progressing on GitHub with open-source collaborations**
+
+#### 🌍 Collaborative Projects
+1.🔬 Detecting Plastic Debris through Satellite Imagery in the Italian and Mediterranean Seas  
+    🛰️ **Project Type:** Omdena Local Chapter AI Project – Trieste, Italy  
+    🔗 **Repository:** [TriesteItalyChapter_PlasticDebrisDetection](https://github.com/elena-andreini/TriesteItalyChapter_PlasticDebrisDetection)  
+    📌 **Role:** Contributor – Focused on **data cleaning**, **geospatial preprocessing**, and setting up **baseline machine learning models**.  
+    🗺️ **Goal:** Leveraged Sentinel-2 satellite imagery and machine learning to detect plastic pollution in marine environments across the Italian and Mediterranean seas.  
+    ✅ **Status:** ✅ *Project Completed*
+
+2.⭐ **Contributed to Kaggle projects with meaningful impact**  
+3. 📈 **Progressing on GitHub with open-source collaborations**
 
 
