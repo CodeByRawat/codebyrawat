@@ -6,7 +6,7 @@
 ### 🌾 Building CropCycle: Smart Crop Rotation Solutions for Farmers  
 🤝 **Project Type:** Omdena AI Innovation Challenge – Global Collaboration  
 🚀 **Kickoff:** May 12, 2025  
-📌 **Role:** Active Contributor – Involved in **data preprocessing**, **solution design**, and **product architecture discussion**  
+📌 **Role:** Active Contributor – Involved in **data collection**, **data preprocessing**, and **modeling for AI-driven crop rotation solutions**.  
 🌱 **Goal:** Build an AI-driven crop rotation recommendation system to improve soil health, boost farmer income, and strengthen climate resilience.  
 📲 **Focus Areas:**
 - Designing a **lightweight, multilingual mobile app** for farmers in low-connectivity regions  
