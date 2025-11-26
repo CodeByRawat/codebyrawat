@@ -1,6 +1,6 @@
 
 <h1 align="center" style="color: #2c3e50;">👋 Hi, I'm <span style="color: #16a085;">Sachin Rawat</span></h1>
-<h3 align="center" style="color: #2980b9;">A skilled Machine Learning Engineer with a strong passion for Geospatial Analytics and Spatial Intelligence</h3>
+<h3 align="center" style="color: #2980b9;">A skilled AI & Machine Learning Engineer with a strong passion for Geospatial Analytics and Spatial Intelligence</h3>
 
 ## 🌍 Ongoing Collaborations
 ![rwanda2](https://github.com/user-attachments/assets/5f466b65-5f80-4daa-a24b-803c66b5118d)
@@ -117,5 +117,6 @@
 
 2.⭐ **Contributed to Kaggle projects with meaningful impact**  
 3. 📈 **Progressing on GitHub with open-source collaborations**
+
 
 
